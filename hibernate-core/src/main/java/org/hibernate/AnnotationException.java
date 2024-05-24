@@ -5,6 +5,7 @@
  * See the lgpl.txt file in the root directory or <http://www.gnu.org/licenses/lgpl-2.1.html>.
  */
 package org.hibernate;
+//hello i am commiting one line
 
 /**
  * An exception that occurs while reading mapping annotations.
